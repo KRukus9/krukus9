@@ -1,4 +1,8 @@
-## Hi there 👋
+## hey, im rukus
+
+im currently interning at my school's it department
+
+you can reach me via discord @krukus9
 
 <!--
 **KRukus9/krukus9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
